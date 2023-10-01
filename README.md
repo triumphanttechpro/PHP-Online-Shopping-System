@@ -39,7 +39,7 @@ Bye me Cup of coffee
 
 
 # Screenshots
-![Image of adduser](https://github.com/triumphanttechpro/PHP-Online-Shopping-System/screenshot/adduser.png)
+![Image of adduser](screenshot/adduser.png)
 ![Image of adduser](https://github.com/triumphanttechpro/PHP-Online-Shopping-System/screenshot/adminproductadd.png)
 ![Image of adduser](https://github.com/triumphanttechpro/PHP-Online-Shopping-System/screenshot/manageuser.png)
 ![Image of adduser](https://github.com/triumphanttechpro/PHP-Online-Shopping-System/screenshot/manageuseradmin.png)
